@@ -2,7 +2,7 @@
 This repository contains production-grade firmware for a low-power, autonomous audio recorder based on the ESP32-S3. The device is designed for battery-powered operation, recording high-quality audio to an SD card and automatically uploading the files to any S3-compatible cloud storage service (like AWS S3, Minio, or Wasabi). 
 The entire workflow is optimized for minimal power consumption and autonomous operation. It wakes only to record or upload, spending the rest of the time in a deep sleep state to maximize battery life.
 
-<img width="594" height="420" align="center" alt="Image" src="https://github.com/user-attachments/assets/cd61ce35-ecef-4fd5-b6a8-62e7f5e5a808" />
+<img width="594" height="420" alt="Image" src="https://github.com/user-attachments/assets/9bd7aef1-ae10-4504-b9d1-e8d02b3e1b98" />
 
 ---
 ## ✨ Key Features
